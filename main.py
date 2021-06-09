@@ -49,4 +49,4 @@ async def on_message(message):
         await message.channel.send(random.choice(starter_encouragements))
 
 
-client.run('ODQ3NTA1NTE2NzE5NzY3NjM2.YK_DBQ.HCNM0_HsTCMaWVpFTbwOlKjn41o') # Запуск бота
+client.run() # Запуск бота
